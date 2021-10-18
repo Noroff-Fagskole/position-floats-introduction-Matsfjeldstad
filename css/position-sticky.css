@@ -1,0 +1,10 @@
+.sticky-position {
+  background-color: aquamarine;
+  top: 20px;
+  padding: 50px;
+  position: sticky;
+}
+
+.cointainer {
+  height: 500px;
+}

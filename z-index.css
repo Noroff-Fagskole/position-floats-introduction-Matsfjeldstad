@@ -1,0 +1,22 @@
+.container {
+  background-color: aliceblue;
+  position: relative;
+}
+
+.one {
+  z-index: 2;
+  background-color: beige;
+  padding: 10px;
+  width: 200px;
+  position: relative;
+}
+
+.two {
+  position: absolute;
+  background-color: aquamarine;
+  top: 10px;
+  left: 40px;
+  padding: 20px;
+  width: 200px;
+  z-index: 3;
+}

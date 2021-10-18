@@ -1,0 +1,19 @@
+/*
+.container {
+  position: static;
+}
+*/
+
+.container {
+  background-color: rosybrown;
+  height: 50px;
+}
+/* 
+  position relative moves element relative to its parent
+  somtimes used in herobanners or CTA boxes width text on top of image.
+*/
+.relative-position {
+  position: relative;
+  top: 30px;
+  left: 40px;
+}
